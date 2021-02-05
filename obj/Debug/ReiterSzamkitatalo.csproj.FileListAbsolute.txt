@@ -1,0 +1,7 @@
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\obj\Debug\ReiterSzamkitatalo.csprojAssemblyReference.cache
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\obj\Debug\ReiterSzamkitatalo.csproj.CoreCompileInputs.cache
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\bin\Debug\ReiterSzamkitatalo.exe.config
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\bin\Debug\ReiterSzamkitatalo.exe
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\bin\Debug\ReiterSzamkitatalo.pdb
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\obj\Debug\ReiterSzamkitatalo.exe
+C:\Users\HP 255\source\repos\ReiterSzamkitatalo\obj\Debug\ReiterSzamkitatalo.pdb
